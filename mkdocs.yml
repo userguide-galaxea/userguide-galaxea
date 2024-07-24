@@ -2,7 +2,7 @@ site_name: Galaxea Docs
 site_url: https://userguide-galaxea.github.io/userguide-galaxea/
 repo_url: https://github.com/userguide-galaxea/userguide-galaxea
 site_description: "Galaxea"
-copyright: Copyright &copy; 2023 - 2024 Galaxea
+copyright: Copyright &copy; 2023 - 2025 Galaxea
 site_author: Galaxea Inc
 
 theme:
