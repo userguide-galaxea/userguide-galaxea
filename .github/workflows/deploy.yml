@@ -43,3 +43,5 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./site  # 确保这里是正确的路径
+        publish_branch: gh-pages  # 部署到的分支
+
