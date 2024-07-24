@@ -1,0 +1,28 @@
+site_name: Galaxea Docs
+site_url: https://woshigerunze.github.io/galaxea/
+repo_url: https://github.com/woshigerunze/galaxea/
+site_description: "Galaxea"
+copyright: Copyright &copy; 2023 - 2024 Galaxea
+site_author: Galaxea Inc
+
+theme:
+    name: material
+    logo: assets/logo.png
+    palette:
+        primary: black
+plugins:
+    - search:
+        enabled: true
+features:
+    - search.highlight
+    - search.inline
+    - search.excerpt
+nav:
+  - Galaxea Docs: index.md
+
+extra_css:
+  - styles.css
+
+markdown_extensions:
+  - pymdownx.details
+  - pymdownx.superfences
