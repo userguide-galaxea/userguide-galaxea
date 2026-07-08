@@ -1,4 +1,4 @@
-
+![](GALAXEA+GD.png)
 
 Founded in September 2023, Galaxea is a cutting-edge AI technology company specializing developing of Embodied AI foundation models and embodied AI robots. Anchored in its “Hardware + Intelligence” strategy and driven by an open, collaborative philosophy, Galaxea is dedicated to partnering with global leaders in Embodied AI to build and continuously empower a thriving ecosystem, bringing embodied AI technologies seamlessly into real-world applications and everyday life.
 
