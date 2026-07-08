@@ -1,7 +1,14 @@
 ![](GALAXEA+GD.png)
 
 Founded in September 2023, Galaxea is a cutting-edge AI technology company specializing developing of Embodied AI foundation models and embodied AI robots. Anchored in its “Hardware + Intelligence” strategy and driven by an open, collaborative philosophy, Galaxea is dedicated to partnering with global leaders in Embodied AI to build and continuously empower a thriving ecosystem, bringing embodied AI technologies seamlessly into real-world applications and everyday life.
+
+
 [![Bilibili](https://img.shields.io/badge/Bilibili-Galaxea-FF69B4?logo=bilibili&logoColor=white)](https://space.bilibili.com/3546640453471155)
+[![YouTube](https://img.shields.io/badge/YouTube-GalaxeaAI-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@GalaxeaAI)
+[![知乎](https://img.shields.io/badge/知乎-星海图-0084FF?logo=zhihu&logoColor=white)](https://www.zhihu.com/org/xing-hai-tu-14)
+[![小红书](https://img.shields.io/badge/小红书-Galaxea-FF2442)](https://www.xiaohongshu.com/user/profile/5d0724e00000000010011a06)
+[![官网](https://img.shields.io/badge/官网-Galaxea-181717?logo=googlechrome&logoColor=white)](https://c.400.com/login)
+
  ### 🤖 Galaxea A1Z
 
 A1Z: Your First Desktop Smart Assistant – Ready to Use Out of the Box, Customizable for Any Scenario
