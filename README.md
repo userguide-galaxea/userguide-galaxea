@@ -8,7 +8,7 @@ Founded in September 2023, Galaxea is a cutting-edge AI technology company speci
 [![YouTube](https://img.shields.io/badge/YouTube-GalaxeaAI-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@GalaxeaAI)
 [![知乎](https://img.shields.io/badge/知乎-星海图-0084FF?logo=zhihu&logoColor=white)](https://www.zhihu.com/org/xing-hai-tu-14)
 [![小红书](https://img.shields.io/badge/小红书-Galaxea-FF2442)](https://www.xiaohongshu.com/user/profile/5d0724e00000000010011a06)
-[![官网](https://img.shields.io/badge/官网-Galaxea-181717?logo=googlechrome&logoColor=white)](https://c.400.com/login)
+[![官网](https://img.shields.io/badge/官网-Galaxea-181717?logo=googlechrome&logoColor=white)](https://galaxea-dynamics.com)
 
  ### 🤖 Galaxea A1Z
 
