@@ -20,7 +20,8 @@ A1Z: Your First Desktop Smart Assistant – Ready to Use Out of the Box, Customi
   | [OpenA1Z-T](https://github.com/userguide-galaxea/OpenA1Z-T) | Python | A1Z-T 遥操作系统 |
   | [a1z-lerobot](https://github.com/userguide-galaxea/a1z-lerobot) | Python | A1Z适配 LeRobot 框架的模型训练与部署 |
   | [a1z-data-collect](https://github.com/userguide-galaxea/a1z-data-collect) |Python | A1Z 遥操作数据采集脚本与工具 |
-  | [URDF](https://github.com/userguide-galaxea/URDF) | CMake | 机器人URDF 模型文件 |
+  | [URDF](https://github.com/userguide-galaxea/URDF) | CMake | 机器人 URDF 模型文件 |
+  | [STP](https://github.com/userguide-galaxea/STP) | STP | 机器人 STP 数模文件 |
 
 
 <!--
