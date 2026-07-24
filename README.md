@@ -22,6 +22,7 @@ A1Z: Your First Desktop Smart Assistant – Ready to Use Out of the Box, Customi
   | [a1z-data-collect](https://github.com/userguide-galaxea/a1z-data-collect) |Python | A1Z 遥操作数据采集脚本与工具 |
   | [URDF](https://github.com/userguide-galaxea/URDF) | CMake | 机器人 URDF 模型文件 |
   | [STP](https://github.com/userguide-galaxea/STP) | STP | 机器人 STP 数模文件 |
+  | [USD](https://github.com/userguide-galaxea/USD) | USD | 机器人 USD 数模文件 |
 
 
 <!--
