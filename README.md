@@ -17,7 +17,9 @@ A1Z: Your First Desktop Smart Assistant – Ready to Use Out of the Box, Customi
   | 仓库 | 语言 | 用途 |
   |:-----|:----:|:-----|
   | [GALAXEA-A1Z](https://github.com/userguide-galaxea/GALAXEA-A1Z) | Python |A1Z 主仓库,机器人控制与开发核心代码 |
-  | [OpenA1Z-T](https://github.com/userguide-galaxea/OpenA1Z-T) | Python | A1Z-T 遥操作系统 |
+  | [OpenA1Z-T](https://github.com/userguide-galaxea/OpenA1Z-T) | Python | 3d打印版本 A1Z-T 遥操作系统 |
+  | [a1z-t](https://github.com/userguide-galaxea/a1z-t) | Python | 官方产品版 A1Z-T 遥操作系统 |
+  | [a1z-g05-deploy](https://github.com/userguide-galaxea/a1z-g05-deploy) | Python | A1Z适配 g05 框架的模型训练与部署 |
   | [a1z-lerobot](https://github.com/userguide-galaxea/a1z-lerobot) | Python | A1Z适配 LeRobot 框架的模型训练与部署 |
   | [a1z-data-collect](https://github.com/userguide-galaxea/a1z-data-collect) |Python | A1Z 遥操作数据采集脚本与工具 |
   | [URDF](https://github.com/userguide-galaxea/URDF) | CMake | 机器人 URDF 模型文件 |
