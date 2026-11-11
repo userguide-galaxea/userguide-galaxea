@@ -14,7 +14,7 @@ Founded in September 2023, Galaxea is a cutting-edge AI technology company speci
 
 ![](assets/A1Z.jpg)
 
-A1Z: Your First Desktop Smart Assistant – Ready to Use Out of the Box, Customizable for Any Scenario
+Galaxea A1Z 是一款集高精度、智能化于一体的先进机械臂，专为满足多样化的工业与创新应用需求而设计。它具备灵活的操作模式、强大的负载能力以及高度的编程兼容性，无论是工业生产线上的精密装配，还是科研实验中的自动化操作，亦或是教育领域的创新实践，Galaxea A1Z 都能以其卓越性能为您提供强大支持。
 
 | 仓库 | 用途 |
 |:-----|:-----|
