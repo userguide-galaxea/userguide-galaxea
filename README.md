@@ -12,6 +12,8 @@ Founded in September 2023, Galaxea is a cutting-edge AI technology company speci
 
 ### 🤖 Galaxea A1Z
 
+![](assets/A1Z.jpg)
+
 A1Z: Your First Desktop Smart Assistant – Ready to Use Out of the Box, Customizable for Any Scenario
 
 | 仓库 | 用途 |
