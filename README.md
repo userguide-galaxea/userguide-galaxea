@@ -10,36 +10,38 @@ Founded in September 2023, Galaxea is a cutting-edge AI technology company speci
 [![小红书](https://img.shields.io/badge/小红书-Galaxea-FF2442)](https://www.xiaohongshu.com/user/profile/5d0724e00000000010011a06)
 [![官网](https://img.shields.io/badge/官网-Galaxea-181717?logo=googlechrome&logoColor=white)](https://galaxea-dynamics.com)
 
+[English](README.md) | [简体中文](README_zh.md)
+
 ### 🤖 Galaxea A1Z
 
 ![](assets/A1Z.jpg)
 
-Galaxea A1Z 是一款集高精度、智能化于一体的先进机械臂，专为满足多样化的工业与创新应用需求而设计。它具备灵活的操作模式、强大的负载能力以及高度的编程兼容性，无论是工业生产线上的精密装配，还是科研实验中的自动化操作，亦或是教育领域的创新实践，Galaxea A1Z 都能以其卓越性能为您提供强大支持。
+The Galaxea A1Z is an advanced robotic arm that combines high precision and intelligence. Designed to meet the needs of diverse industrial and innovative applications, it features flexible operation modes, strong payload capacity, and high programming compatibility. It is suitable for a wide range of scenarios, including precision assembly in industrial settings, automated operations in research labs, and innovative hands-on education.
 
-| 仓库 | 用途 |
+| Repository | Purpose |
 |:-----|:-----|
-| [galaxea_a1z](https://github.com/userguide-galaxea/galaxea_a1z) | A1Z 机器人控制 SDK |
-| [a1z-t](https://github.com/userguide-galaxea/a1z-t) | 产品版适配星海图 A1Z 机械臂的主从臂遥操作设备 |
-| [a1z-data-collect](https://github.com/userguide-galaxea/a1z-data-collect) | 遥操作数据采集脚本与工具 |
-| [a1z-g05-deploy](https://github.com/userguide-galaxea/a1z-g05-deploy) | 基于 G05 框架的模型训练与部署 |
-| [a1z-pi05-deploy](https://github.com/userguide-galaxea/a1z-pi05-deploy) | 基于 π0.5 的模型训练与部署 |
-| [a1z-lerobot](https://github.com/userguide-galaxea/a1z-lerobot) | 基于 LeRobot 框架的模型训练与部署 |
-| [OpenA1Z-T](https://github.com/userguide-galaxea/OpenA1Z-T) | 开源 3D 打印版星海图 A1Z 机械臂的主从臂遥操作设备 |
+| [galaxea_a1z](https://github.com/userguide-galaxea/galaxea_a1z) | A1Z robotic-arm control SDK |
+| [a1z-t](https://github.com/userguide-galaxea/a1z-t) | Production-model leader-follower teleoperation device for Galaxea A1Z arms |
+| [a1z-data-collect](https://github.com/userguide-galaxea/a1z-data-collect) | Teleoperation data collection scripts and tools |
+| [a1z-g05-deploy](https://github.com/userguide-galaxea/a1z-g05-deploy) | Model training and deployment on the G05 framework |
+| [a1z-pi05-deploy](https://github.com/userguide-galaxea/a1z-pi05-deploy) | Model training and deployment based on π0.5 |
+| [a1z-lerobot](https://github.com/userguide-galaxea/a1z-lerobot) | Model training and deployment with the LeRobot framework |
+| [OpenA1Z-T](https://github.com/userguide-galaxea/OpenA1Z-T) | Open-source 3D-printed leader-follower teleoperation device for Galaxea A1Z arms |
 
 ### 🧩 Galaxea LEMO
 
 ![](assets/LEMO.jpg)
 
-LEMO 是面向具身智能开发者的双臂桌面操作平台，集遥操作、数据采集、模型部署验证与二次开发于一体，覆盖从数据采集、模型训练到推理部署的具身智能开发全流程。平台集成双 A1Z 机械臂、G1Z 夹爪、多视角同步视觉系统及 LEMO-CCU 控制盒，支持开箱即用、快速拆装、随放随用，可支撑高校、科研机构及机器人开发团队高效开展双臂操作研究与具身应用开发。
+LEMO is an all-in-one dual-arm development platform designed by Galaxea for general-purpose dual-arm manipulation and a wide range of real-world applications. Combining bimanual manipulation, visual perception, data collection, teleoperation, and open development capabilities, LEMO features two high-performance A1Z robotic arms, G1Z grippers, a multi-view vision system, and a CCU controller. It supports precision manipulation at individual workstations, task expansion across multiple workstations, and cross-scenario application development — bridging robotics research, task validation, and real-world productivity.
 
-| 仓库 | 用途 |
+| Repository | Purpose |
 |:-----|:-----|
-| [galaxea_lemo](https://github.com/userguide-galaxea/galaxea_lemo) | LEMO 平台的 ROS 2 工作空间：双臂遥操作、相机采集、数据记录与推理服务接入 |
+| [galaxea_lemo](https://github.com/userguide-galaxea/galaxea_lemo) | ROS 2 workspace for the LEMO platform: dual-arm teleoperation, camera capture, data recording, and inference service integration |
 
-### 📐 机器人模型与数模文件
+### 📐 Robot Models and CAD Files
 
-| 仓库 | 用途 |
+| Repository | Purpose |
 |:-----|:-----|
-| [URDF](https://github.com/userguide-galaxea/URDF) | 机器人 URDF 模型文件 |
-| [STP](https://github.com/userguide-galaxea/STP) | 机器人 STP 数模文件 |
-| [USD](https://github.com/userguide-galaxea/USD) | 机器人 USD 数模文件 |
+| [URDF](https://github.com/userguide-galaxea/URDF) | Robot URDF model files |
+| [STP](https://github.com/userguide-galaxea/STP) | Robot STP CAD files |
+| [USD](https://github.com/userguide-galaxea/USD) | Robot USD files |
