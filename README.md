@@ -41,6 +41,6 @@ LEMO is an all-in-one dual-arm development platform designed by Galaxea for gene
 
 | Repository                                        | Purpose                |
 |:------------------------------------------------- |:---------------------- |
-| [URDF](https://github.com/userguide-galaxea/URDF) | Robot URDF model files |
+| [robot_descriptions](https://github.com/userguide-galaxea/robot_descriptions) | Robot description files |
 | [STP](https://github.com/userguide-galaxea/STP)   | Robot STP CAD files    |
 | [USD](https://github.com/userguide-galaxea/USD)   | Robot USD files        |

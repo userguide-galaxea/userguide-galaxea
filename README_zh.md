@@ -42,6 +42,6 @@ LEMO 是面向具身智能开发者的双臂桌面操作平台，集遥操作、
 
 | 仓库                                              | 用途                 |
 |:------------------------------------------------- |:-------------------- |
-| [URDF](https://github.com/userguide-galaxea/URDF) | 机器人 URDF 模型文件 |
+| [robot_descriptions](https://github.com/userguide-galaxea/robot_descriptions) | 机器人描述文件 |
 | [STP](https://github.com/userguide-galaxea/STP)   | 机器人 STP 数模文件  |
 | [USD](https://github.com/userguide-galaxea/USD)   | 机器人 USD 数模文件  |
