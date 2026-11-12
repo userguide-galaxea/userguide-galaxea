@@ -22,10 +22,10 @@ The Galaxea A1Z is an advanced robotic arm that combines high precision and inte
 |:------------------------------------------------------------------------- |:-------------------------------------------------------------------------------- |
 | [galaxea_a1z](https://github.com/userguide-galaxea/galaxea_a1z)           | A1Z robotic-arm control SDK                                                      |
 | [a1z-t](https://github.com/userguide-galaxea/a1z-t)                       | Production-model leader-follower teleoperation device for Galaxea A1Z arms       |
-| [a1z-data-collect](https://github.com/userguide-galaxea/a1z-data-collect) | Teleoperation data collection scripts and tools                                  |
-| [a1z-g05-deploy](https://github.com/userguide-galaxea/a1z-g05-deploy)     | Model training and deployment on the G05 framework                               |
-| [a1z-pi05-deploy](https://github.com/userguide-galaxea/a1z-pi05-deploy)   | Model training and deployment based on π0.5                                      |
-| [a1z-lerobot](https://github.com/userguide-galaxea/a1z-lerobot)           | Model training and deployment with the LeRobot framework                         |
+| [a1z_data_collection](https://github.com/userguide-galaxea/a1z_data_collection) | Teleoperation data collection scripts and tools                                  |
+| [a1z_g05_deployment](https://github.com/userguide-galaxea/a1z_g05_deployment)     | Model training and deployment on the G05 framework                               |
+| [a1z_pi05_deployment](https://github.com/userguide-galaxea/a1z_pi05_deployment)   | Model training and deployment based on π0.5                                      |
+| [a1z_lerobot](https://github.com/userguide-galaxea/a1z_lerobot)           | Model training and deployment with the LeRobot framework                         |
 | [OpenA1Z-T](https://github.com/userguide-galaxea/OpenA1Z-T)               | Open-source 3D-printed leader-follower teleoperation device for Galaxea A1Z arms |
 
 ### 🧩 Galaxea LEMO

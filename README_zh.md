@@ -23,10 +23,10 @@ Galaxea A1Z 是一款集高精度、智能化于一体的先进机械臂，专�
 |:------------------------------------------------------------------------- |:------------------------------------------------- |
 | [galaxea_a1z](https://github.com/userguide-galaxea/galaxea_a1z)           | A1Z 机器人控制 SDK                                |
 | [a1z-t](https://github.com/userguide-galaxea/a1z-t)                       | 产品版适配星海图 A1Z 机械臂的主从臂遥操作设备     |
-| [a1z-data-collect](https://github.com/userguide-galaxea/a1z-data-collect) | 遥操作数据采集脚本与工具                          |
-| [a1z-g05-deploy](https://github.com/userguide-galaxea/a1z-g05-deploy)     | 基于 G05 框架的模型训练与部署                     |
-| [a1z-pi05-deploy](https://github.com/userguide-galaxea/a1z-pi05-deploy)   | 基于 π0.5 的模型训练与部署                        |
-| [a1z-lerobot](https://github.com/userguide-galaxea/a1z-lerobot)           | 基于 LeRobot 框架的模型训练与部署                 |
+| [a1z_data_collection](https://github.com/userguide-galaxea/a1z_data_collection) | 遥操作数据采集脚本与工具                          |
+| [a1z_g05_deployment](https://github.com/userguide-galaxea/a1z_g05_deployment)     | 基于 G05 框架的模型训练与部署                     |
+| [a1z_pi05_deployment](https://github.com/userguide-galaxea/a1z_pi05_deployment)   | 基于 π0.5 的模型训练与部署                        |
+| [a1z_lerobot](https://github.com/userguide-galaxea/a1z_lerobot)           | 基于 LeRobot 框架的模型训练与部署                 |
 | [OpenA1Z-T](https://github.com/userguide-galaxea/OpenA1Z-T)               | 开源 3D 打印版星海图 A1Z 机械臂的主从臂遥操作设备 |
 
 ### 🧩 Galaxea LEMO
