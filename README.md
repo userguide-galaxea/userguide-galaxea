@@ -14,7 +14,7 @@ Founded in September 2023, Galaxea is a cutting-edge AI technology company speci
 
 ### 🤖 Galaxea A1Z
 
-![](assets/A1Z.jpg)
+<img src="assets/A1Z.jpg" alt="Galaxea A1Z" width="600">
 
 The Galaxea A1Z is an advanced robotic arm that combines high precision and intelligence. Designed to meet the needs of diverse industrial and innovative applications, it features flexible operation modes, strong payload capacity, and high programming compatibility. It is suitable for a wide range of scenarios, including precision assembly in industrial settings, automated operations in research labs, and innovative hands-on education.
 
@@ -30,7 +30,7 @@ The Galaxea A1Z is an advanced robotic arm that combines high precision and inte
 
 ### 🧩 Galaxea LEMO
 
-![](assets/LEMO.jpg)
+<img src="assets/LEMO.jpg" alt="Galaxea LEMO" width="600">
 
 LEMO is an all-in-one dual-arm development platform designed by Galaxea for general-purpose dual-arm manipulation and a wide range of real-world applications. Combining bimanual manipulation, visual perception, data collection, teleoperation, and open development capabilities, LEMO features two high-performance A1Z robotic arms, G1Z grippers, a multi-view vision system, and a CCU controller. It supports precision manipulation at individual workstations, task expansion across multiple workstations, and cross-scenario application development — bridging robotics research, task validation, and real-world productivity.
 
