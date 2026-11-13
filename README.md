@@ -18,15 +18,15 @@ Founded in September 2023, Galaxea is a cutting-edge AI technology company speci
 
 The Galaxea A1Z is an advanced robotic arm that combines high precision and intelligence. Designed to meet the needs of diverse industrial and innovative applications, it features flexible operation modes, strong payload capacity, and high programming compatibility. It is suitable for a wide range of scenarios, including precision assembly in industrial settings, automated operations in research labs, and innovative hands-on education.
 
-| Repository                                                                | Purpose                                                                          |
-|:------------------------------------------------------------------------- |:-------------------------------------------------------------------------------- |
-| [galaxea_a1z](https://github.com/userguide-galaxea/galaxea_a1z)           | A1Z robotic-arm control SDK                                                      |
-| [a1z-t](https://github.com/userguide-galaxea/a1z-t)                       | Production-model leader-follower teleoperation device for Galaxea A1Z arms       |
+| Repository                                                                      | Purpose                                                                          |
+|:------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------- |
+| [galaxea_a1z](https://github.com/userguide-galaxea/galaxea_a1z)                 | A1Z robotic-arm control SDK                                                      |
+| [a1z-t](https://github.com/userguide-galaxea/a1z-t)                             | Production-model leader-follower teleoperation device for Galaxea A1Z arms       |
 | [a1z_data_collection](https://github.com/userguide-galaxea/a1z_data_collection) | Teleoperation data collection scripts and tools                                  |
-| [a1z_g05_deployment](https://github.com/userguide-galaxea/a1z_g05_deployment)     | Model training and deployment on the G05 framework                               |
-| [a1z_pi05_deployment](https://github.com/userguide-galaxea/a1z_pi05_deployment)   | Model training and deployment based on π0.5                                      |
-| [a1z_lerobot](https://github.com/userguide-galaxea/a1z_lerobot)           | Model training and deployment with the LeRobot framework                         |
-| [OpenA1Z-T](https://github.com/userguide-galaxea/OpenA1Z-T)               | Open-source 3D-printed leader-follower teleoperation device for Galaxea A1Z arms |
+| [a1z_g05_deployment](https://github.com/userguide-galaxea/a1z_g05_deployment)   | Model training and deployment on the G05 framework                               |
+| [a1z_pi05_deployment](https://github.com/userguide-galaxea/a1z_pi05_deployment) | Model training and deployment based on π0.5                                      |
+| [a1z_lerobot](https://github.com/userguide-galaxea/a1z_lerobot)                 | Model training and deployment with the LeRobot framework                         |
+| [OpenA1Z-T](https://github.com/userguide-galaxea/OpenA1Z-T)                     | Open-source 3D-printed leader-follower teleoperation device for Galaxea A1Z arms |
 
 ### 🧩 Galaxea LEMO
 
@@ -40,8 +40,8 @@ LEMO is an all-in-one dual-arm development platform designed by Galaxea for gene
 
 ### 📐 Robot Models and CAD Files
 
-| Repository                                        | Purpose                |
-|:------------------------------------------------- |:---------------------- |
-| [robot_descriptions](https://github.com/userguide-galaxea/robot_descriptions) | Robot description files (URDFs)    |
-| [STP](https://github.com/userguide-galaxea/STP)   | Robot STP CAD files    |
-| [USD](https://github.com/userguide-galaxea/USD)   | Robot USD files        |
+| Repository                                                                    | Purpose                                                                          |
+|:----------------------------------------------------------------------------- |:-------------------------------------------------------------------------------- |
+| [robot_descriptions](https://github.com/userguide-galaxea/robot_descriptions) | Robot description files (URDFs)                                                  |
+| [CAD_files](https://github.com/userguide-galaxea/CAD_files)                   | CAD files for Galaxea robots (camera mounts, arm bases, flange structures, etc.) |
+| [USD](https://github.com/userguide-galaxea/USD)                               | Robot USD files                                                                  |
