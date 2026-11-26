@@ -40,8 +40,8 @@ LEMO 是面向具身智能开发者的双臂桌面操作平台，集遥操作、
 
 ### 📐 机器人模型与数模文件
 
-| 仓库                                                                            | 用途                                   |
-|:----------------------------------------------------------------------------- |:------------------------------------ |
-| [robot_descriptions](https://github.com/userguide-galaxea/robot_descriptions) | 机器人描述文件 (URDFs)                      |
-| [CAD_files](https://github.com/userguide-galaxea/CAD_files)                   | 星海图机器人相关 CAD 文件（相机支架、机械臂 base、法兰结构等） |
-| [USD](https://github.com/userguide-galaxea/USD)                               | 机器人 USD 数模文件                         |
+| 仓库                                                                                                   | 模型                                          | 外观预览                                                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [robot_descriptions](https://github.com/userguide-galaxea/robot_descriptions#urdf-exterior-previews) | A1 系列机械臂、LEMO、R1、R1 Lite 和 R1 Pro 的 URDF 模型 | <a href="https://github.com/userguide-galaxea/robot_descriptions#urdf-exterior-previews"><img src="https://raw.githubusercontent.com/userguide-galaxea/robot_descriptions/galaxea/main/lemo_description/previews/lemo.png" alt="LEMO URDF 外观" width="180"></a> |
+| [CAD_files](https://github.com/userguide-galaxea/CAD_files#step-previews)                            | 支架、基座、法兰和夹爪零件的 STEP 模型                      | <a href="https://github.com/userguide-galaxea/CAD_files#step-previews"><img src="https://raw.githubusercontent.com/userguide-galaxea/CAD_files/main/A1Z/previews/a1z_wrist_camera_mount.png" alt="A1Z 腕部相机支架 STEP 外观" width="180"></a>                         |
+| [USD](https://github.com/userguide-galaxea/USD)                                                      | 机器人 USD 数模文件                                |                                                                                                                                                                                                                                                                |
